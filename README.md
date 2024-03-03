@@ -1,7 +1,6 @@
 ### Hi there 👋
-<div>
+
 ![Snake animation](https://github.com/FernandaMancini/FernandaMancini/blob/main/snake.svg)
-</div>
 <!--
 **FernandaMancini/FernandaMancini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
