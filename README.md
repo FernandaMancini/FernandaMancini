@@ -1,4 +1,5 @@
-### Hi there 👋
+![Apresentação Inicial](https://github.com/FernandaMancini/FernandaMancini/assets/108295414/bd199135-f876-4717-8f22-57badb2b283c)
+
 
 ![Snake animation](https://github.com/FernandaMancini/FernandaMancini/blob/main/snake.svg)
 <!--
