@@ -38,7 +38,24 @@ Se você está procurando alguém com energia criativa, entusiasmo pelo aprendiz
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 --- 
-
+## Bootcamps e Cursos:
+<p>
+     <img align="center" width="40px" src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png">
+    <span><strong> Microsoft Azure </strong></span>
+</p>
+<p>
+     <img align="center" width="40px" src="https://raw.githubusercontent.com/patrickwebsdev/Encriptador-Oracle-Alura/master/img/one.png">
+    <span><strong> Oracle Next Education </strong></span>
+</p>
+<p>
+     <img align="center" width="40px" src="https://static-cdn.myedools.com/org-6988%2Fschool-7227%2F84c9f4eaf08ecb0c30bf4d05e5fd77be%2F2021.11.16_-_cc50_128x128.png">
+    <span><strong> CC50 </strong></span>
+</p>
+<p>
+     <img align="center" width="40px" src="https://hermes.dio.me/tracks/83f8150a-6429-4c1a-9207-d5bff610f647.png">
+    <span><strong> Desenvolvimento de Jogos </strong></span>
+</p>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&width=200%&section=footer"/>
 <div>
 <a href="https://github.com/FernandaMancini">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaMancini&layout=compact&langs_count=7&theme=dracula"/>
