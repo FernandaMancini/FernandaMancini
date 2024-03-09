@@ -56,11 +56,16 @@ Se você está procurando alguém com energia criativa, entusiasmo pelo aprendiz
     <span><strong> Desenvolvimento de Jogos </strong></span>
 </p>
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&width=200%&section=footer"/>
+ 
 <div>
-<a href="https://github.com/FernandaMancini">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaMancini&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandaMancini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/FernandaMancini">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaMancini&layout=compact&langs_count=7&theme=dracula" alt="Top Languages" style="max-width:100%;">
+  </a>
+  <a href="https://github.com/FernandaMancini">
+    <img src="https://github-readme-stats.vercel.app/api?username=FernandaMancini&show_icons=true&theme=dracula&count_private=true&hide=contribs" alt="GitHub Stats" style="max-width:100%;">
+  </a>
 </div>
+
   
 ![Snake animation](https://github.com/FernandaMancini/FernandaMancini/blob/main/snake.svg)
 <!--
