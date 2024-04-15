@@ -20,7 +20,7 @@ Se você está procurando alguém com energia criativa, entusiasmo pelo aprendiz
 
 ---
 ## ✨ Tecnologias que Estou Estudando:
-### Linguagens de Programação:
+### Linguagens:
 ![Python](https://img.shields.io/badge/-Python-4584b6?style=for-the-badge&logo=Python&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
