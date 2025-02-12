@@ -10,35 +10,34 @@
 </div>
 
 ---
-## Sobre Mim 🚀
+## About Me 🚀
 
-Olá! 👋 Sou uma entusiasta de tecnologia em busca de desafios empolgantes e oportunidades de aprendizado contínuo. Atualmente, trilho meu caminho como desenvolvedor front-end, explorando a arte de transformar ideias em interfaces incríveis e interativas.
+Hi! 👋 I'm a technology enthusiast looking for exciting challenges and continuous learning opportunities. Currently, I follow my path as a front-end developer, exploring the art of transforming ideas into incredible and interactive interfaces.
 
-Minha jornada é marcada por um interesse profundo pela inteligência artificial e pelas infinitas possibilidades que ela oferece. Desde a criação de jogos divertidos com HTML, CSS e JavaScript até experimentos intrigantes com machine learning utilizando Python e Google Colab, estou sempre explorando novas fronteiras e expandindo meu conhecimento.
+My journey is marked by a deep interest in artificial intelligence and the infinite possibilities it offers. From creating fun games with HTML, CSS, and JavaScript to intriguing machine learning experiments using Python and Google Colab, I'm always exploring new frontiers and expanding my knowledge.
 
-Se você está procurando alguém com energia criativa, entusiasmo pelo aprendizado e compromisso com a excelência, então podemos nos conectar e construir algo incrível juntos. Vamos explorar o universo infinito da tecnologia e transformar ideias em realidade! 🌟
-
+If you're looking for someone with creative energy, enthusiasm for learning and a commitment to excellence, then we can connect and build something amazing together. Let's explore the infinite universe of technology and turn ideas into reality! 🌟
 ---
-## ✨ Tecnologias que Estou Estudando:
-### Linguagens:
+## ✨ I'm Studying:
+### Languages:
 ![Python](https://img.shields.io/badge/-Python-4584b6?style=for-the-badge&logo=Python&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-e69b2c?style=for-the-badge&logo=javascript&logoColor=white) 
 
-### Banco de Dados:
+### Data Banks:
 ![SQL](https://img.shields.io/badge/-SQL-ff5900?style=for-the-badge&logo=MySQL&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-038fff?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Power BI](https://img.shields.io/badge/Power_BI-ff9800?style=for-the-badge&logo=powerbi&logoColor=white)
 
-### Outras Tecnologias:
+### Other Technologies:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 --- 
-## Bootcamps e Cursos:
+## Bootcamps and Courses:
 <p>
      <img align="center" width="40px" src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png">
     <span><strong> Microsoft Azure </strong></span>
@@ -53,7 +52,7 @@ Se você está procurando alguém com energia criativa, entusiasmo pelo aprendiz
 </p>
 <p>
      <img align="center" width="40px" src="https://hermes.dio.me/tracks/83f8150a-6429-4c1a-9207-d5bff610f647.png">
-    <span><strong> Desenvolvimento de Jogos </strong></span>
+    <span><strong>Game Development</strong></span>
 </p>
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&width=200%&section=footer"/>
  
