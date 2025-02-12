@@ -17,6 +17,7 @@ Hi! 👋 I'm a technology enthusiast looking for exciting challenges and continu
 My journey is marked by a deep interest in artificial intelligence and the infinite possibilities it offers. From creating fun games with HTML, CSS, and JavaScript to intriguing machine learning experiments using Python and Google Colab, I'm always exploring new frontiers and expanding my knowledge.
 
 If you're looking for someone with creative energy, enthusiasm for learning and a commitment to excellence, then we can connect and build something amazing together. Let's explore the infinite universe of technology and turn ideas into reality! 🌟
+
 ---
 ## ✨ I'm Studying:
 ### Languages:
