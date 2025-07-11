@@ -10,13 +10,15 @@
 </div>
 
 ---
-## About Me 🚀
+<h2>About Me 🚀</h2>
+<img width="200" align="right" alt="Avatar Octocat" src="https://github.com/user-attachments/assets/b86e9d2d-2a9d-44da-9d59-78e5926bc860" />
 
 Hi! 👋 I'm a technology enthusiast looking for exciting challenges and continuous learning opportunities. Currently, I follow my path as a front-end developer, exploring the art of transforming ideas into incredible and interactive interfaces.
 
 My journey is marked by a deep interest in artificial intelligence and the infinite possibilities it offers. From creating fun games with HTML, CSS, and JavaScript to intriguing machine learning experiments using Python and Google Colab, I'm always exploring new frontiers and expanding my knowledge.
 
 If you're looking for someone with creative energy, enthusiasm for learning and a commitment to excellence, then we can connect and build something amazing together. Let's explore the infinite universe of technology and turn ideas into reality! 🌟
+
 
 ---
 ## ✨ I'm Studying:
