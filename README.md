@@ -66,7 +66,6 @@ If you're looking for someone with creative energy, enthusiasm for learning and 
     <img src="https://github-readme-stats.vercel.app/api?username=FernandaMancini&show_icons=true&theme=dracula&count_private=true&hide=contribs" alt="GitHub Stats" style="max-width:100%;">
   </a>
 </div>
-<img width="225" height="225" alt="fe" src=" />
 
   
 ![Snake animation](https://github.com/FernandaMancini/FernandaMancini/blob/main/snake.svg)
