@@ -11,7 +11,6 @@
 
 ---
 <h2>About Me 🚀</h2>
-<img width="200" align="right" alt="Avatar Octocat" src="https://github.com/user-attachments/assets/b86e9d2d-2a9d-44da-9d59-78e5926bc860" />
 
 Hi! 👋 I'm a technology enthusiast looking for exciting challenges and continuous learning opportunities. Currently, I follow my path as a front-end developer, exploring the art of transforming ideas into incredible and interactive interfaces.
 
@@ -50,7 +49,7 @@ If you're looking for someone with creative energy, enthusiasm for learning and 
     <span><strong> Oracle Next Education </strong></span>
 </p>
 <p>
-     <img align="center" width="40px" src="https://static-cdn.myedools.com/org-6988%2Fschool-7227%2F84c9f4eaf08ecb0c30bf4d05e5fd77be%2F2021.11.16_-_cc50_128x128.png">
+     <img align="center" width="40px" src="https://github.com/user-attachments/assets/ded9f7f8-7027-43f9-be3b-210d284d3b5e">
     <span><strong> CC50 </strong></span>
 </p>
 <p>
@@ -67,6 +66,7 @@ If you're looking for someone with creative energy, enthusiasm for learning and 
     <img src="https://github-readme-stats.vercel.app/api?username=FernandaMancini&show_icons=true&theme=dracula&count_private=true&hide=contribs" alt="GitHub Stats" style="max-width:100%;">
   </a>
 </div>
+<img width="225" height="225" alt="fe" src=" />
 
   
 ![Snake animation](https://github.com/FernandaMancini/FernandaMancini/blob/main/snake.svg)
